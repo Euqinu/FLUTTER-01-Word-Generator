@@ -1,6 +1,6 @@
 # word_generator
 
-A new Flutter application from Travery media.
+A new Flutter application from Traversy media.
 
 ## Getting Started
 
